@@ -60,3 +60,10 @@
 [11:16:45] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:37754|flying_dizk] -> UpstreamBridge has disconnected
 [11:16:45] [Netty Worker IO Thread #1/INFO]: [flying_dizk] disconnected with: Proxy lost connection to server.
 [11:16:45] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:37754|flying_dizk] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:55:57] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54958]: Connected via websocket
+[11:55:57] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54958]: Origin header is https://mc1-8.pages.dev
+[11:55:57] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54958]: Logged in as 'flying_dizk'
+[11:55:57] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:54958|flying_dizk] -> UpstreamBridge has connected
+[11:55:57] [Netty Worker IO Thread #5/WARN]: Error occurred processing connection for flying_dizk AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[11:55:57] [Netty Worker IO Thread #5/INFO]: [flying_dizk] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[11:55:57] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:54958|flying_dizk] -> UpstreamBridge has disconnected
