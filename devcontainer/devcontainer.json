@@ -1,4 +1,0 @@
-{
-    //...
-    "postAttachCommand": "gh codespace ports visibility 8081:public -c $miniature_bassoon"
-}
