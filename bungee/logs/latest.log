@@ -60,3 +60,5 @@
 [22:04:11] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:43754|flying_dizk] -> UpstreamBridge has disconnected
 [22:04:11] [Netty Worker IO Thread #2/INFO]: [flying_dizk] disconnected with: Proxy lost connection to server.
 [22:04:11] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:43754|flying_dizk] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:23:00] [EaglerXBungee: Network Tick Tasks/WARN] [EaglercraftXBungee]: Deleting stale certificate: $dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+[22:23:00] [EaglerXBungee: Network Tick Tasks/WARN] [EaglercraftXBungee]: Certificate was deleted: $dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
